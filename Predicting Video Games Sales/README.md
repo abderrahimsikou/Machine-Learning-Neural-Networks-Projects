@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Video games sales prediction
 
 This project aims to predict video games sales using machine learning algorithms.
 
