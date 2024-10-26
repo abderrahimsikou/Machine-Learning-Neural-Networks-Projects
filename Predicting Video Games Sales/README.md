@@ -10,7 +10,7 @@ This project aims to predict video games sales using machine learning algorithms
 - `train_Model.py`: Python Code to creat and train the model.
 - `predict.py`: Python Code to make predictions on new data.
 - `data/`: Contains the datasets for training and testing the model.
-- `model/`: Contains the trained model (`heart_disease_model.pkl`) and the StandardScaler (`StandareScaler.pkl`).
+- `model/`: Contains the trained model (`model.pkl`) and the StandardScaler (`StandareScaler.pkl`).
 
 ## How to Use:
 1. Run 'train_Model.py' to train the model on the historical video games sales data.
